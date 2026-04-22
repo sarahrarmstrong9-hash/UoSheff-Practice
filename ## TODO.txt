@@ -1,3 +1,6 @@
 ## TODO 
 
-# Learn why I am doing this. 
+- Learn Git 
+- Get better at code 
+
+If using .md files - this will render to a bullet point 
