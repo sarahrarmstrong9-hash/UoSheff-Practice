@@ -1,5 +1,5 @@
-# Practice heading/
-This is therefore paragraph text/
+# Practice heading
+This is therefore paragraph text
 
 
 A bechstein's bat: ![picture of a bat](https://arbtech.co.uk/wp-content/uploads/2014/04/bechsteins-bats.jpg) 
