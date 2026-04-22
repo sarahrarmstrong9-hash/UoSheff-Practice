@@ -1,2 +1,6 @@
 Welcome to my homepage... 
 When edited on GitHub - appears as in R studio - will it save locally when 'commit changes' selected... 
+Success, it worked. 
+
+A bechstein's bat: https://arbtech.co.uk/wp-content/uploads/2014/04/bechsteins-bats.jpg 
+A link to more information about bechsteins bats: https://www.bats.org.uk/about-bats/what-are-bats/uk-bats/bechsteins
